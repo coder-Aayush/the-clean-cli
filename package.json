@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "the-clean-cli.helloWorld",
-        "title": "Hello World"
+        "command": "the-clean-cli.cleanHelper",
+        "title": "The Clean CLI: All Options"
       }
     ]
   },
